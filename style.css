@@ -1,0 +1,83 @@
+.section-one {
+    text-align: center;
+
+}
+
+.section-one__heading {
+    background-color: black;
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 70px
+}
+
+.section-one__made {
+    background-color: grey;
+    color: ghostwhite;
+    margin-top: -10px;
+    font-display: bold;
+    display: inline;
+    font-size: 30px;
+
+}
+
+.card {
+    display: inline-block;
+    max-height: fit-content;
+    width: fit-content;
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 190px;
+    margin-right: 20px;
+}
+
+.card-1 {
+    display: inline-block;
+    max-height: fit-content;
+    width: fit-content;
+    text-align: center;
+    margin-right: 20px;
+
+}
+
+.card-2 {
+    display: inline-block;
+    max-height: fit-content;
+    width: fit-content;
+    text-align: center;
+    margin-right: 20px;
+
+}
+
+.card-3 {
+    display: inline-block;
+    max-height: fit-content;
+    width: fit-content;
+    text-align: center;
+    margin-right: 20px;
+
+}
+
+.card_button {
+    border: solid;
+    color: yellowgreen;
+}
+
+.tableborder {
+    background-color: black;
+    color: rgb(40, 214, 16);
+    text-align: center;
+    
+    margin-bottom: 30px;
+    height: 250px;
+    margin-top: 30px;
+    min-width: fit-content;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
